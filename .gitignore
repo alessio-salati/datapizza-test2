@@ -1,0 +1,30 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# pytest cache directory
+.pytest_cache/
+
+# Virtual environments
+env/
+venv/
+ENV/
+
+# MacOS specific files
+.DS_Store
+
+# Logs and other temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Docker-specific files
+*.env
